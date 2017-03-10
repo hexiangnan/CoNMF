@@ -1,7 +1,8 @@
-# Co-Regularized Non-negative Matrix Factorization
-CoNMF [1] extends NMF (Non-negative Matrix Factorization) for multi-view clustering. 
+# CoNMF
+Co-Regularized Non-negative Matrix Factorization (CoNMF) [1] extends NMF (Non-negative Matrix Factorization) for multi-view clustering. 
 
 If using the codes, please cite the paper:
+
 [1] Xiangnan He, Min-Yen Kan, Peichu Xie, Xiao Chen. Comment-based Multi-View Clustering of Web 2.0 Items. In Proc. of the 23rd international conference on World Wide Web (WWW '14), Seoul, South Korea, April 7-11, 2014, pp 771 - 782. 
 
 ----------------------------------
